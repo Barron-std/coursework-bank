@@ -1,6 +1,6 @@
 {
   "title": "图论与密码学题库",
-  "date": "2026-11-07",
+  "date": "2026-11-16",
   "questions": [
     {
       "id": "405618707",
@@ -1306,7 +1306,8 @@
       "courseName": "图论",
       "section": "graph:3.3",
       "sourceIds": [
-        "chapter-3.3"
+        "chapter-3.3",
+        "graph-work-rooted"
       ],
       "platformAnswer": "C",
       "answer": "C",
@@ -1314,7 +1315,7 @@
       "validationStatus": "full_marks",
       "answerHtml": "",
       "references": [],
-      "searchText": "T  为完全二叉树，有 t 片树叶，  e 条边，则有（ ）。 \n                                             A、 e  > 2 ( t  −1) \n                                                                         B、 e  < 2 ( t  −1) \n                                                                                                             C、 e  = 2 ( t  −1) \n                                                                                                     D、 e  = 2 ( t  +1) \n                                                 C 按本课程的满二叉树约定，内部顶点数为 t−1，边数 e=2(t−1)。 本课程在此使用每个内部顶点恰有两个孩子的满二叉树关系。不要直接套用计算机课程中“完全二叉树”的层序定义。 图论章节测验 · 3.3 根树及其应用"
+      "searchText": "T  为完全二叉树，有 t 片树叶，  e 条边，则有（ ）。 \n                                             A、 e  > 2 ( t  −1) \n                                                                         B、 e  < 2 ( t  −1) \n                                                                                                             C、 e  = 2 ( t  −1) \n                                                                                                     D、 e  = 2 ( t  +1) \n                                                 C 按本课程的满二叉树约定，内部顶点数为 t−1，边数 e=2(t−1)。 本课程在此使用每个内部顶点恰有两个孩子的满二叉树关系。不要直接套用计算机课程中“完全二叉树”的层序定义。 图论章节测验 · 3.3 根树及其应用 图论独立作业 · 根树及其应用"
     },
     {
       "id": "405618842",
@@ -1331,7 +1332,8 @@
       "courseName": "图论",
       "section": "graph:3.3",
       "sourceIds": [
-        "chapter-3.3"
+        "chapter-3.3",
+        "graph-work-rooted"
       ],
       "platformAnswer": "A",
       "answer": "A",
@@ -1339,7 +1341,7 @@
       "validationStatus": "full_marks",
       "answerHtml": "",
       "references": [],
-      "searchText": "下面给出的符号串集合中，哪一个是前缀码（ ）。 \n                                                                                 A、 {1，01，001，000} \n                                                                                                     B、 {1，11，101，001，0011} \n                                                                         C、 { b ， c ， aa ， bc ， aba } \n                                                                         D、 { b ， c ， a ， aa ， ac ， abb } \n                                                 A 前缀码要求任一码字都不是另一码字的前缀；A 满足。  图论章节测验 · 3.3 根树及其应用"
+      "searchText": "下面给出的符号串集合中，哪一个是前缀码（ ）。 \n                                                                                 A、 {1，01，001，000} \n                                                                                                     B、 {1，11，101，001，0011} \n                                                                         C、 { b ， c ， aa ， bc ， aba } \n                                                                         D、 { b ， c ， a ， aa ， ac ， abb } \n                                                 A 前缀码要求任一码字都不是另一码字的前缀；A 满足。  图论章节测验 · 3.3 根树及其应用 图论独立作业 · 根树及其应用"
     },
     {
       "id": "405618843",
@@ -1356,7 +1358,8 @@
       "courseName": "图论",
       "section": "graph:3.3",
       "sourceIds": [
-        "chapter-3.3"
+        "chapter-3.3",
+        "graph-work-rooted"
       ],
       "platformAnswer": "D",
       "answer": "D",
@@ -1364,7 +1367,7 @@
       "validationStatus": "full_marks",
       "answerHtml": "",
       "references": [],
-      "searchText": "下面给出的符号串集合中，哪一个不是前缀码（ ）。 \n                                             A、 {0，10，110，1111}； \n                                                                         B、 {01，001，000，1}； \n                                                                         C、 { b ， c ， aa ， ac ， aba ， abc }； \n                                                                                                             D、 {0011，001，101，11，1}。 \n                                                                             D D 中 1 是 101、11 的前缀，001 也是 0011 的前缀，因此不是前缀码。  图论章节测验 · 3.3 根树及其应用"
+      "searchText": "下面给出的符号串集合中，哪一个不是前缀码（ ）。 \n                                             A、 {0，10，110，1111}； \n                                                                         B、 {01，001，000，1}； \n                                                                         C、 { b ， c ， aa ， ac ， aba ， abc }； \n                                                                                                             D、 {0011，001，101，11，1}。 \n                                                                             D D 中 1 是 101、11 的前缀，001 也是 0011 的前缀，因此不是前缀码。  图论章节测验 · 3.3 根树及其应用 图论独立作业 · 根树及其应用"
     },
     {
       "id": "405618844",
@@ -1381,7 +1384,8 @@
       "courseName": "图论",
       "section": "graph:3.3",
       "sourceIds": [
-        "chapter-3.3"
+        "chapter-3.3",
+        "graph-work-rooted"
       ],
       "platformAnswer": "A",
       "answer": "A",
@@ -1389,7 +1393,7 @@
       "validationStatus": "full_marks",
       "answerHtml": "",
       "references": [],
-      "searchText": "设 T 为高为 k 的二叉树，则 T 的最大结点数为() 。 \n                                                                                 A、 2 k+1 −1 \n                                                                                                     B、 2 k −1 \n                                                                         C、 2 k-1 −1 \n                                                                         D、 2 2k −1 \n                                                 A 根的高度为 0，各层最多有 1、2、…、2ᵏ 个顶点，总计 2ᵏ⁺¹−1。  图论章节测验 · 3.3 根树及其应用"
+      "searchText": "设 T 为高为 k 的二叉树，则 T 的最大结点数为() 。 \n                                                                                 A、 2 k+1 −1 \n                                                                                                     B、 2 k −1 \n                                                                         C、 2 k-1 −1 \n                                                                         D、 2 2k −1 \n                                                 A 根的高度为 0，各层最多有 1、2、…、2ᵏ 个顶点，总计 2ᵏ⁺¹−1。  图论章节测验 · 3.3 根树及其应用 图论独立作业 · 根树及其应用"
     },
     {
       "id": "405618845",
@@ -1406,7 +1410,8 @@
       "courseName": "图论",
       "section": "graph:3.3",
       "sourceIds": [
-        "chapter-3.3"
+        "chapter-3.3",
+        "graph-work-rooted"
       ],
       "platformAnswer": "对",
       "answer": "对",
@@ -1414,7 +1419,7 @@
       "validationStatus": "full_marks",
       "answerHtml": "",
       "references": [],
-      "searchText": "设完全二叉树  T 有 n 个结点， l 片树叶，则 n=2l−1 。  对 每个内部顶点恰有两个孩子时，n=2l−1。题目“完全二叉树”的用词按本课程约定理解。 n=2l−1 对满二叉树成立；层序意义的完全二叉树可能只满足 n=2l 或 n=2l−1。 图论章节测验 · 3.3 根树及其应用"
+      "searchText": "设完全二叉树  T 有 n 个结点， l 片树叶，则 n=2l−1 。  对 每个内部顶点恰有两个孩子时，n=2l−1。题目“完全二叉树”的用词按本课程约定理解。 n=2l−1 对满二叉树成立；层序意义的完全二叉树可能只满足 n=2l 或 n=2l−1。 图论章节测验 · 3.3 根树及其应用 图论独立作业 · 根树及其应用"
     },
     {
       "id": "405619107",
@@ -2395,6 +2400,66 @@
         }
       ],
       "searchText": "密文传输错误1位，五种工作模式解密分别会错误几位或几个消息分组？  ECB：1组；CBC、全分组CFB：2组；OFB、CTR：仅对应1位 只考虑一个密文位翻转，分组长度为 b，密钥、IV、计数器和分组边界均正确。CFB 的错误传播范围取决于反馈段长 s，表中先列 s=b 的情况。随机扰乱指各位约有一半概率出错，并非每一位必然错误。 误差传播与 NIST SP 800-38A 附录 D 核对。该解答不是平台公布的标准答案；平均错误位数不是每次必然发生的确定值。 密码学独立作业 · 第7章 分组加密工作模式"
+    },
+    {
+      "id": "crypto-discussion-quantum-hash",
+      "chapter": "讨论",
+      "chapterName": "哈希函数与量子计算",
+      "type": "简答题",
+      "stemHtml": "<p>量子计算机对哈希函数有影响吗？</p>",
+      "optionsHtml": "",
+      "explanation": "区分概念、理论攻击复杂度与实际实现成本；参考资料见下方链接。",
+      "noteType": "参考解答",
+      "note": "讨论题没有平台标准答案；本解答用于理解与复习。",
+      "verified": false,
+      "course": "crypto",
+      "courseName": "密码学",
+      "section": "crypto:discussion-hash",
+      "sourceIds": [
+        "crypto-discussion-quantum-hash"
+      ],
+      "platformAnswer": "",
+      "answer": "参考解答（展开查看）",
+      "answerLabel": "参考解答（未作为平台标准答案）",
+      "validationStatus": "reference_unconfirmed",
+      "answerHtml": "<p>我更关注“攻击变快”和“已经可以破解”之间的区别。假设攻击目标是找到某个SHA-256摘要对应的输入，理想情况下Grover算法会把搜索量级从2^256降到约2^128，但这仍是非常庞大的规模，而且查询次数并不等于实际运行时间，还要计算哈希电路和量子纠错的开销。因此，不能仅凭存在量子加速就断言SHA-256已经失去安全性。另一方面，原像与碰撞是不同目标，不能用原像搜索的数字代替碰撞安全强度。我的理解是：量子计算要求重新评估安全余量、选择合适的摘要长度，并不意味着哈希技术整体被淘汰。参考：NIST《Cryptographic Standards in a Post-Quantum Era》。</p>",
+      "references": [
+        {
+          "title": "NIST · Cryptographic Standards in a Post-Quantum Era",
+          "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=934896"
+        }
+      ],
+      "searchText": "量子计算机对哈希函数有影响吗？  参考解答（展开查看） 区分概念、理论攻击复杂度与实际实现成本；参考资料见下方链接。 讨论题没有平台标准答案；本解答用于理解与复习。 密码学讨论 · 量子计算机对哈希函数有影响吗？"
+    },
+    {
+      "id": "crypto-discussion-md5",
+      "chapter": "讨论",
+      "chapterName": "哈希函数与量子计算",
+      "type": "简答题",
+      "stemHtml": "<p>为什么说“MD5加密”这种说法是错误的？</p>",
+      "optionsHtml": "",
+      "explanation": "区分概念、理论攻击复杂度与实际实现成本；参考资料见下方链接。",
+      "noteType": "参考解答",
+      "note": "讨论题没有平台标准答案；本解答用于理解与复习。",
+      "verified": false,
+      "course": "crypto",
+      "courseName": "密码学",
+      "section": "crypto:discussion-hash",
+      "sourceIds": [
+        "crypto-discussion-md5"
+      ],
+      "platformAnswer": "",
+      "answer": "参考解答（展开查看）",
+      "answerLabel": "参考解答（未作为平台标准答案）",
+      "validationStatus": "reference_unconfirmed",
+      "answerHtml": "<p>我认为可以从“能否还原文件”来区分。文件经过加密后，接收方应当能够用相应密钥恢复内容；但无论文件有多大，MD5都只给出128位摘要，因此它更像一份用于比较的指纹，并不保存完整原文。不同文件也可能产生相同摘要。验证输入口令时比较摘要，并不是把保存的摘要“解密”回口令；查表找到一个匹配输入，同样不等于存在MD5解密算法。准确的表述应是“计算MD5摘要”。还要区分不可逆与抗碰撞：前者并不保证后者，MD5已有实用碰撞攻击，不能用于要求抗碰撞的安全场景。参考：RFC 6151。</p>",
+      "references": [
+        {
+          "title": "RFC 6151 · MD5 Security Considerations",
+          "url": "https://datatracker.ietf.org/doc/rfc6151/"
+        }
+      ],
+      "searchText": "为什么说“MD5加密”这种说法是错误的？  参考解答（展开查看） 区分概念、理论攻击复杂度与实际实现成本；参考资料见下方链接。 讨论题没有平台标准答案；本解答用于理解与复习。 密码学讨论 · 为什么说“MD5加密”这种说法是错误的？"
     }
   ],
   "courses": {
@@ -2479,6 +2544,12 @@
       "course": "crypto",
       "number": "7",
       "title": "分组加密工作模式"
+    },
+    {
+      "key": "crypto:discussion-hash",
+      "course": "crypto",
+      "number": "讨论",
+      "title": "哈希函数与量子计算"
     }
   ],
   "counts": {
@@ -2494,7 +2565,8 @@
     "graph:6.1": 7,
     "graph:6.5": 9,
     "crypto:5": 1,
-    "crypto:7": 1
+    "crypto:7": 1,
+    "crypto:discussion-hash": 2
   },
   "sources": {
     "chapter-2.2": {
@@ -2590,14 +2662,35 @@
       "course": "crypto",
       "kind": "standalone",
       "questionCount": 1
+    },
+    "graph-work-rooted": {
+      "id": "graph-work-rooted",
+      "title": "图论独立作业 · 根树及其应用",
+      "course": "graph",
+      "kind": "standalone",
+      "questionCount": 5
+    },
+    "crypto-discussion-quantum-hash": {
+      "id": "crypto-discussion-quantum-hash",
+      "title": "密码学讨论 · 量子计算机对哈希函数有影响吗？",
+      "course": "crypto",
+      "kind": "discussion",
+      "questionCount": 1
+    },
+    "crypto-discussion-md5": {
+      "id": "crypto-discussion-md5",
+      "title": "密码学讨论 · 为什么说“MD5加密”这种说法是错误的？",
+      "course": "crypto",
+      "kind": "discussion",
+      "questionCount": 1
     }
   },
   "summary": {
-    "total": 95,
+    "total": 97,
     "graph": 93,
-    "crypto": 2,
+    "crypto": 4,
     "checkedAnswers": 92,
-    "referenceAnswers": 2
+    "referenceAnswers": 4
   },
   "notes": "公开复习资料：保留题目、参考解答与题目出处，移除账号、个人作答过程和个人评分记录。"
 }
